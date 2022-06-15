@@ -19,7 +19,7 @@
    <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"><img alt="Jest" title="Jest" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img alt="Docker" title="Docker" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-   <img align="center" alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+   <a href="https://nodejs.org/en/about/" target="_blank" rel="noreferrer"><img alt="Node.js" title="Node.js" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </div>
 
    ##
