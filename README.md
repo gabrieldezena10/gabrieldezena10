@@ -1,6 +1,6 @@
-### Hey, keep track of my dev skills 👋
+### Hey, there 👋
 
-### I'm Gabriel Dezena and current student of WEB Development at Trybe.
+### I'm Gabriel Dezena. I'm from a small town in São Paulo, but now I live in Florianópolis, the capital of the state of Santa Catarina. I discovered myself as a developer 2021 and now i'm studying full stack web development in order to become the best version of me.
 
 <div align="center">
   <a href="https://github.com/gabrieldezena10">
@@ -20,6 +20,7 @@
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img alt="Docker" title="Docker" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
    <a href="https://nodejs.org/en/about/" target="_blank" rel="noreferrer"><img alt="Node.js" title="Node.js" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img alt="Typescript-logo" title="Typescript" width="36" height="36" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg">
   </div>
 
    ##
