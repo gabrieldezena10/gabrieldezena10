@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-### I'm Gabriel Dezena. I'm from a small town in São Paulo, but now I live in Florianópolis, the capital of the state of Santa Catarina. I discovered myself as a developer 2021 and now i'm studying full stack web development in order to become the best version of me.
+### I'm Gabriel Dezena. I'm from a small town in São Paulo, but now I live in Florianópolis, the capital of the state of Santa Catarina. I discovered myself as a developer 2021 and now i'm studying full stack web development in order to build a carrer and constantly improve my skills along the way.
 
 <div align="center">
   <a href="https://github.com/gabrieldezena10">
