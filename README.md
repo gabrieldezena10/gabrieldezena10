@@ -1,6 +1,12 @@
-### Hey, there 👋
+### Meu nome é Gabriel Dezena 👋
 
-### I'm Gabriel Dezena. I'm from a small town in São Paulo, but now I live in Florianópolis, the capital of the state of Santa Catarina. I discovered myself as a developer 2021 and now i'm studying full stack web development in order to build a carrer and constantly improve my skills along the way.
+#### Sou de uma cidade do interior de São Paulo, mas agora vivo em Florianópolis, capital do estado de Santa Catarina. Estudande de desenvolvimento web full stack na Trybe.
+
+#### 👨🏽‍💻 Constantemente aprimorando meus conhecimentos na área de Front-End;
+#### :computer: Atualmente estou estudando Programação Back-End para ser um desenvolvedor mais completo;
+#### :seedling: Estudando e utilizando TypeScript em meus últimos projetos para adicionar essa linguagem ao meu repertório;
+#### :trophy: Estou à procura de oportudades ná área de tecnologia como desenvolvedor júnior;
+
 
 <div align="center">
   <a href="https://github.com/gabrieldezena10">
