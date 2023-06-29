@@ -1,7 +1,6 @@
 ### :brazil: Olá, eu sou Gabriel Dezena 👋
 
 ### :computer: Desenvolvedor Jr. Web Full-Stack.
-#### :trophy: Estou à procura de oportudades ná área de tecnologia como desenvolvedor web júnior.
 #### Estou motivado e pronto para os desafios que a carreira de desenvolvedor tem a oferecer, gosto de entender aplicações como um todo e contribuir para a resolução de problemas de forma clara e eficiente.
 
    ##
@@ -9,7 +8,6 @@
 ### :us: Hi, I'm Gabriel Dezena 👋
 
 ### :computer: Jr. Web Developer Full-Stack.
-#### :trophy: I am looking for opportunities in the technology field as a junior web developer.
 #### I am motivated and ready for the challenges that the developer career has to offer, I like to understand applications as a whole and contribute to problem solving in a clear and efficient way.
 
 <div align="center">
