@@ -1,13 +1,13 @@
 ### :brazil: Olá, eu sou Gabriel Dezena 👋
 
-### :computer: Desenvolvedor Jr. Web Full-Stack.
+### :computer: Desenvolvedor Full-Stack Pleno.
 #### Estou motivado e pronto para os desafios que a carreira de desenvolvedor tem a oferecer, gosto de entender aplicações como um todo e contribuir para a resolução de problemas de forma clara e eficiente.
 
    ##
    
 ### :us: Hi, I'm Gabriel Dezena 👋
 
-### :computer: Jr. Web Developer Full-Stack.
+### :computer: Full-Stack Developer.
 #### I am motivated and ready for the challenges that the developer career has to offer, I like to understand applications as a whole and contribute to problem solving in a clear and efficient way.
 
 <div align="center">
